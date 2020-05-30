@@ -1,6 +1,6 @@
 [user]
-  name = Juan Ignacio Márquez
-  email = ignaciomarquezc@gmail.com
+  name = Milan Rafaeli
+  email = milan.rafaeli@gmail.com
 
 [credential]
   helper = osxkeychain
@@ -65,7 +65,7 @@
   protocol = https
 
 [github]
-  user = imarquezc
+  user = mrafaeli
 
 [pager]
   diff = diff-so-fancy | less --tabs=1,5 -RFX

@@ -17,6 +17,7 @@ alias help="tldr"
 
 # Git
 alias grbiam='git rebase -i --autosquash master'
+alias gfix='git commit --fixup'
 
 # Bundler
 alias b="bundle"
@@ -26,7 +27,7 @@ alias t="ruby -I test"
 
 # Rails
 alias m="migrate"
-alias s="rspec"
+alias rs="server"
 
 # Pretty print the path
 alias path="echo $PATH | tr -s ':' '\n'"
