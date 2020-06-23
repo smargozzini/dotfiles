@@ -6,7 +6,7 @@ cd $(dirname $0)/..
 # Set zsh as the default shell
 if [ "$SHELL" != "/bin/zsh" ]
 then
-  chsh -s /bin/zsh mrafaeli
+  chsh -s /bin/zsh smargozzini
 fi
 
 # Run macos script

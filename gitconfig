@@ -1,6 +1,6 @@
 [user]
-  name = Milan Rafaeli
-  email = milan.rafaeli@gmail.com
+  name = Sebastian Margozzini
+  email = smargozzini1@gmail.com
 
 [credential]
   helper = osxkeychain
@@ -9,6 +9,7 @@
   aa = add --all
   ap = add --patch
   ca = commit --amend
+  ca-no = commit --amend --no-edit
   cm = commit
   cmm = commit -m
   ci = commit -a
@@ -65,7 +66,7 @@
   protocol = https
 
 [github]
-  user = mrafaeli
+  user = smargozzini
 
 [pager]
   diff = diff-so-fancy | less --tabs=1,5 -RFX
